@@ -10,5 +10,3 @@ while user_input != "exit":
         validate_and_convert_dict(user_input_dictionary)
     else:
         validate_and_convert(user_input)
-
-
